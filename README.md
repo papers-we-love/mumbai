@@ -1,4 +1,4 @@
-# Papers We ❤ Mumbai
+# Papers We Love Mumbai
 
 This is the repository for the Mumbai(India) chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/mumbai/blob/master/code-of-conduct.md).
 
